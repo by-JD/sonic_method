@@ -12,6 +12,7 @@ Super easy semi-hydroponic hack with love.
 - water
 - root enhancer (nice to have)
 - wet tissue
+- SUN or LED
 
 
 2. How to install
