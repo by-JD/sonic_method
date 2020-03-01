@@ -16,11 +16,11 @@ Super easy semi-hydroponic hack with love.
 
 2. How to install
 
-- thread a wet tissue through holes in the bottom of a small pot
+- thread a wet tissue through holes in a bottom of a small pot
 - fill a pot with soil
 - plant a seed
 - install the pot to a 1/2 cup of water
-- add water if the wet tissue get dry. that's it!
+- add water if the wet tissue gets dry. that's it!
 
 3. Tips == How to become a hacker
 
