@@ -23,7 +23,7 @@ Super easy semi-hydroponic hack with love.
 - install the pot to a 1/2 cup of water
 - add water if the wet tissue gets dry. that's it!
 
-## Tips == How to become a hacker
+## How to become a hacker
 
 - enjoy your life
 - a bigger pot helps a big harvest
