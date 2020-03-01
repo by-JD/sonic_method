@@ -1,5 +1,5 @@
 # sonic_method
-Super easy semi-hydroponic hack with love.
+Super Easy Semi-hydroponic Ｈack with Love.
 
 ![sample](1583044380980609577569569458035.jpg)
 
