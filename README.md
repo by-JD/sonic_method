@@ -1,6 +1,8 @@
 # sonic_metod
 Super easy semi-hydroponic hack with love.
 
+![sample](15830440580484997241483573580636.jpg)
+
 1. Requirment
 
 - plastic cup x 1
