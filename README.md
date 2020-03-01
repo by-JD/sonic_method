@@ -16,7 +16,7 @@ Super easy semi-hydroponic hack with love.
 
 2. How to install
 
-- thread a wet tissue through holes in the  bottle of a small pot
+- thread a wet tissue through holes in the bottom of a small pot
 - fill a pot with soil
 - plant a seed
 - install the pot to a 1/2 cup of water
@@ -25,5 +25,5 @@ Super easy semi-hydroponic hack with love.
 3. Tips == How to become a hacker
 
 - a bigger pot helps a big harvest
-- root  enhancer is effective but expensive
+- root enhancer is effective but expensive
 - submit a pull request
