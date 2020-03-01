@@ -24,6 +24,7 @@ Super easy semi-hydroponic hack with love.
 
 3. Tips == How to become a hacker
 
+- enjoy your life
 - a bigger pot helps a big harvest
 - root enhancer is effective but expensive
 - submit a pull request
