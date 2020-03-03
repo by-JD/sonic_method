@@ -18,7 +18,7 @@ Super Easy Semi-Hydroponic Ｈack with Love.
 ## How to install
 
 - thread a wet tissue through holes in a bottom of a small pot
-- fill a pot with soil
+- fill it with soil
 - plant a seed
 - install the pot to a 1/2 cup of water
 - add water if the wet tissue gets dry. that's it!
